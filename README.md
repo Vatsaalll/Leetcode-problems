@@ -26,4 +26,5 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
