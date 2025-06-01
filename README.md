@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
