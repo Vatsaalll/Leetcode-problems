@@ -18,6 +18,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -28,10 +29,15 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
