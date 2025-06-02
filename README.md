@@ -50,4 +50,12 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
