@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0086-partition-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
