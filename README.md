@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
