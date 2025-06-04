@@ -70,6 +70,7 @@
 | [0027-remove-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0027-remove-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
