@@ -31,12 +31,14 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
