@@ -56,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 ## Stack
@@ -110,4 +111,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
