@@ -59,6 +59,7 @@
 | [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
