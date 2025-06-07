@@ -62,10 +62,12 @@
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0155-min-stack) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
