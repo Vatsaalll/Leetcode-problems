@@ -50,6 +50,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
