@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -71,6 +72,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
