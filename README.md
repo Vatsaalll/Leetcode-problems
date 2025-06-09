@@ -97,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
