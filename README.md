@@ -95,6 +95,7 @@
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
@@ -106,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -113,20 +115,24 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,5 +165,10 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
