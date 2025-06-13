@@ -46,6 +46,7 @@
 | [0002-add-two-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
@@ -199,4 +201,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
