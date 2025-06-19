@@ -61,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 ## String
@@ -100,6 +101,7 @@
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
