@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -140,6 +141,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +156,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0022-generate-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
