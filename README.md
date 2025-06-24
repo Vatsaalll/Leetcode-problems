@@ -37,6 +37,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
