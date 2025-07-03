@@ -47,6 +47,7 @@
 | [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
