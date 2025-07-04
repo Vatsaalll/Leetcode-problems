@@ -48,6 +48,7 @@
 | [0143-reorder-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
