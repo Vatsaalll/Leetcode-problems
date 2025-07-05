@@ -2,7 +2,7 @@ class Solution {
 public:
     int lastStoneWeight(vector<int>& stones) {
         int size = stones.size();
-        int min = INT_MIN;
+        
         while (size>1) {
             sort(stones.begin(),stones.end());
             int last = stones[size-1];
