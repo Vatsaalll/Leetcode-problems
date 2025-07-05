@@ -135,6 +135,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -181,6 +182,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
