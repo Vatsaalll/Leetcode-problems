@@ -113,6 +113,7 @@
 | [0155-min-stack](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Array
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -156,6 +158,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
