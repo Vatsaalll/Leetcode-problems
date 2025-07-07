@@ -137,6 +137,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -177,6 +178,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +188,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
@@ -328,4 +331,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
