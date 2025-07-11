@@ -39,6 +39,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Recursion
 |  |
@@ -146,6 +147,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -223,6 +225,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
