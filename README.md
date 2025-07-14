@@ -18,6 +18,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
