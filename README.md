@@ -104,6 +104,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3396-valid-word](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
