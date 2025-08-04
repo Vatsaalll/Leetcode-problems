@@ -6,13 +6,13 @@ using namespace std;
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        unordered_map<int, int> basket; // Map to count the number of each fruit type in the window
-        int maxLen = 0, left = 0;
+        int ans = 0;
+        unordered_map<int, int> basket;
+        int left = 0;
+        int n = fruits.size();
         
-        for (int right = 0; right < fruits.size(); right++) {
+        for (int right = 0; right < n; right++) {
             basket[fruits[right]]++;
-            
-            // If we have more than 2 types of fruits, shrink the window from the left
             while (basket.size() > 2) {
                 basket[fruits[left]]--;
                 if (basket[fruits[left]] == 0) {
@@ -20,9 +20,8 @@ public:
                 }
                 left++;
             }
-            maxLen = max(maxLen, right - left + 1);
+            ans = max(ans, right - left + 1);
         }
-        
-        return maxLen;
+        return ans;
     }
 };
