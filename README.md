@@ -139,6 +139,7 @@
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -233,6 +234,7 @@
 | [0022-generate-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Trie
