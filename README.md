@@ -162,6 +162,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
