@@ -90,6 +90,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -372,4 +375,12 @@
 | [0455-assign-cookies](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
