@@ -146,6 +146,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -200,6 +201,7 @@
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -384,4 +386,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
