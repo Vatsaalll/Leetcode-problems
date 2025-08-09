@@ -54,6 +54,7 @@
 | [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -67,6 +68,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -230,6 +232,7 @@
 | [0078-subsets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
