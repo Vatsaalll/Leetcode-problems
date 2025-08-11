@@ -145,6 +145,7 @@
 | [0118-pascals-triangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -380,6 +381,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
