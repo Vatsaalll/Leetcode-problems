@@ -103,6 +103,7 @@
 | [0020-valid-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
