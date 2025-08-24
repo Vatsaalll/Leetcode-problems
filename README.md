@@ -26,6 +26,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0086-partition-list) |
@@ -103,6 +104,7 @@
 | [0014-longest-common-prefix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0125-valid-palindrome) |
@@ -374,6 +376,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
