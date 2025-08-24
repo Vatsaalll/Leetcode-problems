@@ -166,6 +166,7 @@
 | [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -251,6 +252,7 @@
 | [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Trie
 |  |
@@ -356,6 +358,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
