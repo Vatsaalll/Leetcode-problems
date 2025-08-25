@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
@@ -144,6 +145,7 @@
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
