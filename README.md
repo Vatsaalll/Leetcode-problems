@@ -90,6 +90,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
@@ -155,6 +156,7 @@
 | [0136-single-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
@@ -408,4 +411,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
