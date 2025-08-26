@@ -183,6 +183,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
