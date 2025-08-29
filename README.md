@@ -12,6 +12,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0143-reorder-list) |
@@ -203,6 +204,7 @@
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
