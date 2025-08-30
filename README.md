@@ -163,6 +163,7 @@
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0134-gas-station) |
@@ -209,6 +210,7 @@
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -330,6 +333,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0226-invert-binary-tree) |
@@ -373,6 +377,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0226-invert-binary-tree) |
