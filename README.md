@@ -155,6 +155,7 @@
 | [0027-remove-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
@@ -210,6 +211,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -415,6 +418,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0078-subsets) |
