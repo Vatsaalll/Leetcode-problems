@@ -358,6 +358,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -383,6 +384,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -428,6 +430,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Memoization
@@ -475,6 +478,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
 | ------- |
