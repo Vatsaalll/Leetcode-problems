@@ -91,6 +91,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3830-find-closest-person](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
