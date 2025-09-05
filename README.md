@@ -32,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0036-valid-sudoku) |
@@ -254,6 +256,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0075-sort-colors) |
