@@ -203,6 +203,7 @@
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -333,6 +334,7 @@
 | [0048-rotate-image](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1036-rotting-oranges](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Queue
 |  |
@@ -429,6 +431,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1036-rotting-oranges](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
