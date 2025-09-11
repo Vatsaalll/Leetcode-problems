@@ -111,6 +111,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -202,6 +203,7 @@
 | [0485-max-consecutive-ones](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1036-rotting-oranges) |
