@@ -93,6 +93,7 @@
 | [2481-strictly-palindromic-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3830-find-closest-person) |
@@ -142,6 +143,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3396-valid-word](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
@@ -554,6 +556,7 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2481-strictly-palindromic-number) |
+| [3462-vowels-game-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 ## Radix Sort
 |  |
 | ------- |
@@ -563,4 +566,8 @@
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Vatsaalll/Leetcode-problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
