@@ -27,6 +27,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -421,6 +422,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vatsaalll/Leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -557,4 +559,8 @@
 | ------- |
 | [0164-maximum-gap](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0948-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Vatsaalll/Leetcode-problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
